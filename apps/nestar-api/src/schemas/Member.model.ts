@@ -44,7 +44,7 @@ const MemberSchema = new Schema(
 		memberAddress: {
 			type: String,
 		},
-		memberDesk: {
+		memberDesc: {
 			type: String,
 		},
 		memberProperties: {
